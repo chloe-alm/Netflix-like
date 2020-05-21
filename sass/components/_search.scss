@@ -1,0 +1,13 @@
+.search-container {
+   background-color: $color-background;
+   min-height: 100%;
+   padding-bottom: 4rem;
+   padding-left: 4rem;
+   display: flex;
+   flex-wrap: wrap;
+   padding-top:7rem;
+}
+.search-container img{
+   width: 20rem;
+   height: auto;
+}
